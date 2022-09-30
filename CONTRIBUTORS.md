@@ -93,6 +93,11 @@
 - Bio: Mechanical engineer
 - Github: [ahmadmusaddiq](https://github.com/ahmadmusaddiq)
 
+#### Name: [Bayu](https://github.com/bembenk18)
+- Place: Madiun, East Java, Indonesia
+- Bio: Mending Turu?
+- GitHub: [bembenk18](https://github.com/bembenk18)
+
 #### Name: [Ahmad Thames](https://github.com/ahmadthames)
 - Place: Houston, TX, USA
 - Bio: UX Engineer, Traveler, Plant-Based Foodie
